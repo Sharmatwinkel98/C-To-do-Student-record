@@ -32,8 +32,20 @@ class Program
                     {
                         Console.WriteLine("List is empty.No tasks are available to delete.");
                     }
+                    else
+                    {
+
+                    }
                     break;
-                case "3":
+                case "3":                                                   //Display the task list4
+                    if (task_list.Count == 0)
+                    {
+                        Console.WriteLine("List is empty.Nothing to show.....!!");
+                    }
+                    else
+                    {
+
+                    }
                     break;
                 case "4":
                     condition=false;
