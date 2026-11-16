@@ -21,9 +21,17 @@ class Program
 
             switch (choice) 
             {
-                case "1":
+                case "1":                                                   //adding the task to the list
+                    Console.WriteLine("\nEnter the task name:");
+                    string task=Console.ReadLine();
+                    task_list.Add(task);
+                    Console.WriteLine("Task added successfully.");
                     break;
-                case "2":
+                case "2":                                                   //remove the task fron the list
+                    if (task_list.Count == 0)
+                    {
+                        Console.WriteLine("List is empty.No tasks are available to delete.");
+                    }
                     break;
                 case "3":
                     break;
@@ -31,7 +39,7 @@ class Program
                     condition=false;
                     Console.WriteLine("Thank you! See you soon.........!!");
                     break;
-                default:
+                default:// check that user should only select the availble options.
                     Console.WriteLine("Invalid choice! Kindly select the valid option.");
                     Console.WriteLine("Thank you.....");
                     break;
