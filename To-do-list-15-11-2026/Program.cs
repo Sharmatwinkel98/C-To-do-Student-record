@@ -44,7 +44,13 @@ class Program
                     }
                     else
                     {
-
+                        Console.WriteLine("\nYour tasks are:");
+                        int count = 1;
+                        foreach( string item in task_list)
+                        {
+                            Console.WriteLine($"*.{item}");
+                            count++;
+                        }
                     }
                     break;
                 case "4":
