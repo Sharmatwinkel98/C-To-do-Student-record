@@ -1,0 +1,15 @@
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.AssemblyInfoInputs.cache
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.AssemblyInfo.cs
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.csproj.CoreCompileInputs.cache
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.sourcelink.json
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\bin\Debug\net10.0\student_record.exe
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\bin\Debug\net10.0\student_record.deps.json
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\bin\Debug\net10.0\student_record.runtimeconfig.json
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\bin\Debug\net10.0\student_record.dll
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\bin\Debug\net10.0\student_record.pdb
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.dll
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\refint\student_record.dll
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.pdb
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\student_record.genruntimeconfig.cache
+C:\Users\smohi\source\repos\To-do-list-15-11-2026\student_record\obj\Debug\net10.0\ref\student_record.dll
