@@ -34,7 +34,22 @@ class Program
                     }
                     else
                     {
-
+                        Console.WriteLine("Enter the task number to remove:");
+                        for (int i = 0; i < task_list.Count; i++)
+                        {
+                            Console.WriteLine((i+1) + ". "+ task_list[i]);
+                        }
+                        Console.WriteLine("Enter number:");
+                        int number =Convert.ToInt32(Console.ReadLine());
+                        if(number >=1 && number <=task_list.Count)
+                        {
+                            task_list.RemoveAt(number - 1);
+                            Console.WriteLine("Task removed successfully!");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid task number.");
+                        }
                     }
                     break;
                 case "3":                                                   //Display the task list4
